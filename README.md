@@ -1,7 +1,7 @@
 # ✔ Desafio 1 e 2
 
 # 🧮 Calculadora de Polígonos
-Bem-vindo à Calculadora de Polígonos! Este projeto permite aos usuários inserir vários polígonos, calcular suas áreas e exibir suas propriedades. O aplicativo suporta polígonos com 3 a 4 lados (triângulos e quadrados), mas é expansivel caso desejar, este desafio foi feito visando aproveitar 100% dos aspectos informados via e-mail, desde já agradeço a atenção de todos.
+Bem-vindo à Calculadora de Polígonos! Este projeto permite aos usuários inserir vários polígonos, calcular suas áreas e exibir suas propriedades. O aplicativo suporta polígonos com 3 a 4 lados (triângulos e quadrados), mas é expansível caso desejar, este desafio foi feito visando aproveitar 100% dos aspectos informados via e-mail, desde já agradeço a atenção de todos.
 
 ## 🚀 Features
 
@@ -11,7 +11,7 @@ Bem-vindo à Calculadora de Polígonos! Este projeto permite aos usuários inser
 - Somar todas as áreas.
   
 ## 📋 Diagrama de Classe
-- Abaixo segue como foi construida a classe "Polygon" visando salvar todos os dados informados pelo usuário para os futuros cálculos. 
+- Abaixo segue como foi construída a classe "Polygon" visando salvar todos os dados informados pelo usuário para os futuros cálculos.
 
 ![Poligono drawio](https://github.com/user-attachments/assets/8fc01d97-d51f-4ff6-af3e-f34e6c8e2992)
 
