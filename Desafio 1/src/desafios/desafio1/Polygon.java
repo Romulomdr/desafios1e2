@@ -11,6 +11,7 @@ public class Polygon {
     private double sideSize;
     private String geometricName;
     private double area;
+    
     List<Polygon> polygons = new ArrayList<>();
 	Scanner sc = new Scanner(System.in);
 
