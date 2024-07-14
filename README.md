@@ -3,6 +3,12 @@
 # 🧮 Calculadora de Polígonos
 - Bem-vindo à Calculadora de Polígonos! Este projeto permite aos usuários inserir vários polígonos, calcular suas áreas e exibir suas propriedades. O aplicativo suporta polígonos com 3 a 4 lados (triângulos e quadrados), mas é expansível caso desejar, este desafio foi feito visando aproveitar 100% dos aspectos informados via e-mail, desde já agradeço a atenção de todos.
 
+# 📈 Roadmap
+- 1º Criar um fluxograma, para descobrir as possíveis exceções e entender o fluxo do código.
+- 2º Criar um diagrama de classe, para modelar o objeto e organizar os métodos.
+- 3º Criar o projeto no eclipse e já criar a classe main(index.java)
+- 4º Criar a classe Polygon.java para começar a codificar toda a lógica criada.
+
 ## 🚀 Features
 
 - Adicionar Vários Polígonos
